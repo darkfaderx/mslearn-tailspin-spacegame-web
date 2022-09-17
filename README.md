@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/darkfaderx/593e986a-5222-46cb-8050-379c6b2c2a68/e762dda9-055c-4dba-bfd9-bdb63a47bfa0/_apis/work/boardbadge/26c7584a-1fdc-4d66-86a9-942db5313785)](https://dev.azure.com/darkfaderx/593e986a-5222-46cb-8050-379c6b2c2a68/_boards/board/t/e762dda9-055c-4dba-bfd9-bdb63a47bfa0/Microsoft.RequirementCategory)
 [![Build Status](https://dev.azure.com/darkfaderx/Space%20Game%20-%20web%20-%20Pipeline/_apis/build/status/darkfaderx.mslearn-tailspin-spacegame-web?branchName=build-pipeline)](https://dev.azure.com/darkfaderx/Space%20Game%20-%20web%20-%20Pipeline/_build/latest?definitionId=2&branchName=build-pipeline)
 
 # Contributing
